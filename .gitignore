@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints/
+data/
+kaggle/
+src/.ipynb_checkpoints/
+src/__pycache__
